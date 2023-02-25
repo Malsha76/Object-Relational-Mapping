@@ -1,10 +1,9 @@
 package lk.ijse.hibernate.entity;
 
-/*
-    @author THINUX
-    @created 18-Feb-23
-*/
+import javax.persistence.Entity;
 
+
+@Entity
 public class Customer {
     private long id;
     private String name;

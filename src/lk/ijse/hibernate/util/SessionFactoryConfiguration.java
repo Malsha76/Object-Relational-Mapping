@@ -1,9 +1,5 @@
 package lk.ijse.hibernate.util;
 
-/*
-    @author THINUX
-    @created 18-Feb-23
-*/
 
 import lk.ijse.hibernate.entity.Customer;
 import org.hibernate.HibernateException;
